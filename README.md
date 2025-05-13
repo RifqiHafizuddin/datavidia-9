@@ -49,3 +49,11 @@ These results demonstrate that deep learning models can be applied efficiently a
 ---
 
 Feel free to fork, star, or open an issue if you have questions!
+
+## 👥 Team Members
+| Name                   | GitHub                                                         |
+| ---------------------- | -------------------------------------------------------------- |
+| Rifqi Hafizuddin       | [@RifqiHafizuddin](https://github.com/RifqiHafizuddin)         | 
+| Favian Sulthan Wafi    | [@Favian Sulthan Wafi](https://github.com/FavianSulthanW)          | 
+| Aurelio Naufal Effendy | [@Aurelio-Naufal](https://github.com/Aurelio-Naufal)     |
+
