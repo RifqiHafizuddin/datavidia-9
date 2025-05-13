@@ -24,9 +24,10 @@ To improve forecasting accuracy, we:
   - N-HiTS: < 1 minute  
   (for the entire dataset)
 - **Evaluation strategy**: Rolling forecasting using **MAPE** as the evaluation metric.
-![Rolling Forecasting](img/rolling.jpg)
+<img src="img/rolling.jpg" alt="Rolling Forecasting" width="400"/>
 - We applied a **best-fit strategy**: For each commodity-province pair, the model with the lowest validation MAPE was used for the final prediction.
-![Best Fit](img/bestfit.jpg)
+<img src="img/bestfit.jpg" alt="Best Fit" width="400"/>
+
 
 ## 📈 Results
 | Model        | Validation MAPE |
