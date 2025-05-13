@@ -32,11 +32,6 @@ To improve forecasting accuracy, we:
 
 These results demonstrate that deep learning models can be applied efficiently and effectively to complex, real-world forecasting problems involving economic and policy-relevant data.
 
-## 📂 Repository Contents
-- `notebooks/`: Exploratory data analysis and model training
-- `src/`: Preprocessing, modeling, and evaluation scripts
-- `data/`: Sample processed data and configuration files
-- `config/`: Model settings and experiment configs
 
 ## 📎 Links
 - 📄 [Competition Overview](https://arkavidia.id/)
