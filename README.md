@@ -19,14 +19,17 @@ To improve forecasting accuracy, we:
 - Applied simple imputation techniques based on province/commodity to handle remaining missing values.
 
 ## ⚙️ Training & Evaluation
-- **Training time**: 
+- **Training time**:  
   - PatchTST: < 3 minutes  
   - N-HiTS: < 1 minute  
   (for the entire dataset)
-- **Evaluation strategy**: Rolling forecasting using **MAPE** as the evaluation metric.
-<img src="img/rolling.jpg" alt="Rolling Forecasting" width="400"/>
-- We applied a **best-fit strategy**: For each commodity-province pair, the model with the lowest validation MAPE was used for the final prediction.
-<img src="img/bestfit.jpg" alt="Best Fit" width="400"/>
+
+- **Evaluation strategy**: Rolling forecasting using **MAPE** as the evaluation metric.  
+  <img src="img/rolling.jpg" alt="Rolling Forecasting" width="400"/>
+
+- We applied a **best-fit strategy**: For each commodity-province pair, the model with the lowest validation MAPE was used for the final prediction.  
+  <img src="img/bestfit.jpg" alt="Best Fit" width="400"/>
+
 
 
 ## 📈 Results
